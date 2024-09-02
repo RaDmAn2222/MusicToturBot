@@ -41,7 +41,7 @@ The **Music Tutor Assistant Bot** is a Telegram bot designed to assist in managi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/RaDmAn2222/MusicToturBot.git
+   git clone https://github.com/RaDmAn2222/MusicTutorBot.git
    cd MusicTutorBot
    ```
 
