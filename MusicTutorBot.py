@@ -373,7 +373,7 @@ Here are the commands you can use:
 
 # setting up the bot
 def main():
-    updater = Updater("", use_context=True)
+    updater = Updater("TOKEN_BOT", use_context=True)
     dp = updater.dispatcher
 
     dp.add_handler(CommandHandler("start", start))
